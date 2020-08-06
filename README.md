@@ -8,6 +8,8 @@
 
 ## 编译
 
+Calculator目录下
+
 ```
 g++ calculator.cpp -o calculator
 ```
