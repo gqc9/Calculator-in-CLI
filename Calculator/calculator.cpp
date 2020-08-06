@@ -138,7 +138,7 @@ double calculateRPN(vector<string> rpn) {
 
 
 int main() {
-	cout << "input expression:" << endl;
+	cout << "enter expression:" << endl;
 	while (1) {
 		string expr;
 		cin >> expr;
